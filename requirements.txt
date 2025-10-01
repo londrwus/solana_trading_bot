@@ -1,0 +1,11 @@
+solana>=0.30.0
+solders>=0.18.0
+jupiter-python-sdk>=0.1.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+telebot>=0.0.5
+pyTelegramBotAPI>=4.14.0
+base58>=2.1.1
+cryptography>=41.0.0
+httpx>=0.25.0
+pandas>=2.0.0
